@@ -1,0 +1,278 @@
+.container{
+    width:1150px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.header-wrapper .logo{
+    width: 120px;
+    border: solid 1px blue;
+    padding: 5px,5px;
+    font-size: 20px;
+    text-align: center;
+    
+
+}
+.header-wrapper .navigation{
+    text-decoration: none;
+    border: solid 1px blue;
+    
+    font-size: 20px;
+    text-align: center;
+    
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+.banner-text{
+    height: 430px;
+    border: solid 1px blue;
+}
+.banner-image{
+    height-430px;
+    border: solid 1px blue;
+}
+.about-heading{
+    text-align: center;
+    height: 100px;
+    border: solid 1px blue;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.about-image{
+    height: 730px;
+    width: 665px;
+    border: solid 1px blue;
+}
+.about-content{
+    height: 730px;
+    width: 400px;
+    border: solid 1px blue;
+}
+.features-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.feature1{
+    height:425px ;
+    width: 350px;
+    border: solid 1px blue;
+}
+.feature2{
+    height: 390px ;
+    width: 225px ;
+    border: solid 1px blue;
+}
+.feature3{
+    height: 390px;
+    width: 225px;
+    border: solid 1px blue;
+}
+.feature4{
+    height: 390px;
+    width: 225px;
+    border: solid 1px blue;
+}
+.service-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.service-item1{
+    height: 350px;
+    border: solid 1px blue;
+}
+.service-item2{
+    height: 350px;
+    border: solid 1px blue;
+}
+.service-item3{
+    height: 350px;
+    border: solid 1px blue;
+}
+.service-item4{
+    height: 350px;
+    border: solid 1px blue;
+}
+.heading-menu{
+    height: 90px;
+    text-align: center;
+    border: solid 1px blue;
+}
+.food-eating-time{
+    height: 90px;
+    text-align: center;
+    display: flex;
+    
+    border: solid 1px blue;
+}
+.food-item-heading{
+    height: 90px;
+    text-align: center; 
+    border: solid 1px blue;
+}
+.food-item-images{
+    display: flex;
+    flex-wrap: wrap;
+}
+.food-item-1{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.food-item-2{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.food-item-3{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.food-item-4{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.food-item-5{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.food-item-6{
+    width: 33.33%;
+    height: 355px;
+    outline: solid 1px blue;
+}
+.testimonials-heading{
+    height: 90px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.person-feedback{
+    height: 250px;
+    border: solid 1px blue;
+    text-align: center; 
+}
+.events-heading{
+    height: 80px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.event-images{
+    display: flex;
+    justify-content: space-between;
+}
+.event-image1{
+    height: 600px;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.event-image2{
+    height: 600px;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.event-image3{
+    height: 600px;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.chefs-heading{
+    height: 80px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.chef-images{
+    display: flex;
+    justify-content: space-between;
+}
+.chef-image1{
+    height: 570;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.chef-image2{
+    height: 570px;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.chef-image3{
+    height: 570px;
+    width: 33.33%;
+    border: solid 1px blue;
+}
+.book-table-heading{
+    height: 100px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.book-table-wrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.table-image{
+    height: 5oopx;
+    width: 370px;
+    border: solid 1px blue;
+}
+.book-table{
+    height: 500px;
+    width: 720px;
+    border: solid 1px blue;
+}
+.gallery-heading{
+    height: 100px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.gallery-images{
+    display: flex;
+    justify-content: space-between;
+}
+.gallery-image1{
+    height: 125px;
+    width: 200px;
+    border: solid 1px blue;
+}
+.gallery-image2{
+    height: 125px;
+    width: 200px;
+    border: solid 1px blue;
+}
+.gallery-image3{
+    height: 125px;
+    width: 200px;
+    border: solid 1px blue;
+}
+.gallery-image4{
+    height: 125px;
+    width: 200px;
+    border: solid 1px blue;
+}
+.gallery-image5{
+    height: 125px;
+    width: 200px;
+    border: solid 1px blue;
+}
+.gallery-heading{
+    height: 100px;
+    border: solid 1px blue;
+    text-align: center;
+}.contact-heading{
+    height: 100px;
+    border: solid 1px blue;
+    text-align: center;
+}
+.map{
+    height: 350px;
+    border: solid 1px blue;
+}
+
